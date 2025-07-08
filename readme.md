@@ -31,7 +31,7 @@ Welcome to the **Live Sentiment Analysis** repository! This project enables real
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/Live-Sentiment-Analysis.git
+    git clone https://github.com/MeAkash77/Sentiment-Analysis.git
     cd Live-Sentiment-Analysis
     ```
 
